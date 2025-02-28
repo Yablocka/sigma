@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(10, 240, 248);
+
+
+}
+.one {
+width: 30%;
+height:30%;
+background-color: blueviolet;
+border: 3px solid }
+.two {
+    width: 30%;
+    height:30%;
+    background-color: rgb(155, 235, 7);
+    border: 3px solid }
+    .three {
+        width: 30%;
+        height:30%;
+        background-color: rgb(255, 0, 21);
+        border: 3px solid }
+
+.Heading
+{background-color: rgb(255, 0, 128);}
+.head 
+{background-color: blueviolet;}
+
+
+
+
+
+.sewi { width: 100%;}
+.pop { width: 50%;}
+h1 {background-color: rgb(252, 252, 252);
+font-style: oblique;
+font-size: x-large;
+
